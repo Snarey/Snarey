@@ -3,14 +3,14 @@
 **Podcast Producer & Creative Technologist.**
 I apply systems thinking to narrative design.
 
-Currently pioneering **Aleatory Journalism**: a methodology that uses analogue randomizing agents (Tarot) to disrupt linear biographical interviewing.
+Currently researching **Aleatory Journalism**: a methodology that uses analogue randomizing agents (Tarot) to disrupt linear biographical interviewing.
 
 ---
 
 ### 🛠️ The Stack
 * **Narrative Engine:** Divinatory Systems (Rider-Waite-Smith)
 * **Audio:** Adobe Audition / Audio-Technica ATR2100x
-* **Protocol:** Synchronous Messenger-Based Interviewing (Signal/WhatsApp)
+* **Protocol:** Synchronous Messenger-Based Interviewing (Signal/Telegram/WhatsApp)
 * **Identity:**
   * [ISNI 0000 0000 5295 3924 2](https://isni.org/isni/0000000529539242)
   * [ORCID 0009-0002-9374-3921](https://orcid.org/0009-0002-9374-3921)
