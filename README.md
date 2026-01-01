@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there, I'm Finbarre. 👋
 
-<!--
-**Snarey/Snarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Podcast Producer & Creative Technologist.**
+I apply systems thinking to narrative design.
 
-Here are some ideas to get you started:
+Currently pioneering **Aleatory Journalism**: a methodology that uses analogue randomizing agents (Tarot) to disrupt linear biographical interviewing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ The Stack
+* **Narrative Engine:** Divinatory Systems (Rider-Waite-Smith)
+* **Audio:** Adobe Audition / Audio-Technica ATR2100x
+* **Protocol:** Synchronous Messenger-Based Interviewing (Signal/WhatsApp)
+* **Identity:**
+  * [ISNI 0000 0000 5295 3924 2](https://isni.org/isni/0000000529539242)
+  * [ORCID 0009-0002-9374-3921](https://orcid.org/0009-0002-9374-3921)
+
+---
+
+### 🔭 Current Work
+* **[Tarot DMs](https://tarotdms.com):** The world's first epistolary tarot interview series.
+* **[Tarot Interviews](https://tarotinterviews.com):** Long-form audio conversations with bestselling authors and artists.
+* **Research:** *The Application of Divinatory Systems in Narrative Interviewing* (Working Paper, 2026).
+
+---
+
+### 🌐 Connect
+* [Finbarre.com](https://finbarre.com)
+* [Substack](https://tarotdms.substack.com)
+* [LinkedIn](https://www.linkedin.com/in/finbarre)
