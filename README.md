@@ -3,7 +3,10 @@
 **Podcast Producer & Creative Technologist.**
 I apply systems thinking to narrative design.
 
-Currently researching **Aleatory Journalism**: a methodology that uses analogue randomizing agents (Tarot) to disrupt linear biographical interviewing.
+### Current Work
+- **[Tarot DMs](https://tarotdms.com/):** The world's first epistolary tarot interview series.
+- **[Tarot Interviews](https://tarotinterviews.com/):** Long-form audio conversations with bestselling authors and artists.
+- **Research:** Snarey, F. (2026). *Piercing the PR Shield: Aleatory Intervention as a Method for Disrupting Narrative Control in Qualitative Interviewing*. Working paper. Zenodo. https://doi.org/10.5281/zenodo.18131193
 
 ---
 
