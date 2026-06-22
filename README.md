@@ -12,7 +12,7 @@ I am the founder and host of **Tarot Interviews**, producer of **Tarot DMs**, an
 - **[Tarot DMs](https://tarotdms.com/):** The world's first epistolary tarot interview series - a messenger-based arts and culture interview format where writers, artists and creative people respond to three tarot prompts in a one-hour digital conversation.
 
 - **[Tarot Interviews](https://tarotinterviews.com/):** The world's first podcast interview format where creative people discuss their work using tarot cards as structured prompts.  
-  Listen on [Spotify](YOUR-SPOTIFY-LINK) and [Apple Podcasts](YOUR-APPLE-LINK).
+  Listen on [Spotify]((https://open.spotify.com/show/0CAxcBIEmDgfrz9onp0zpM)) and [Apple Podcasts](https://podcasts.apple.com/gb/podcast/tarot-interviews/id1798747936)).
 
 - **[British Tarot Archive](https://britishtarotarchive.org/):** An independent archive documenting tarot decks, printed matter and tarot culture connected to Britain and the UK.
 
